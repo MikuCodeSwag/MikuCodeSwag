@@ -7,7 +7,7 @@
 - Sports 🏀
 - Anime/Vocaloid 💠
 
-## Most Used/Preferred Programming Languages For Me
+## Most Used/Preferred Programming Languages
 - JavaScript
 - Python
 - GNU Bash
