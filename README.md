@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MikuCodeSwag
-- 👀 I’m interested in Video Games, Linux, Basketball, Anime/Vocaloid
+  ![Hatsune Miku Americana](https://img00.deviantart.net/ed94/i/2014/104/4/0/dtex_americana_miku__ripped__by_chocofudge98-d7efxyr.png)
+- 👀 I’m interested in Video Games, Linux, Sports, Anime/Vocaloid
 - 🌱 I’m currently learning Vue, Express.js and Python 3
 - 💞️ I’m looking to collaborate on Web and command-line apps
 <!---
