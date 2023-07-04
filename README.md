@@ -7,5 +7,10 @@
 - Sports 🏀
 - Anime/Vocaloid 💠
 
+## Most Used/Preferred Programming Languages For Me
+- JavaScript
+- Python
+- GNU Bash
+
 ![Hatsune Miku Basketball](/ballermiku.jpg)
 
